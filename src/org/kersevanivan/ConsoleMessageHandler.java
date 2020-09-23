@@ -5,8 +5,6 @@ import java.util.Objects;
 /**
  * <p>Title: ConsoleMessageHandler</p>
  * <p>Description: </p>
- * <p>Copyright: Copyright (c) 2020 ec-logic GmbH, Fuerth, germany</p>
- * <p>Company: ec-logic GmbH</p>
  * <p>$LastChangedRevision: $</p>
  * <p>$Id: $</p>
  * <p>$LastChangedDate: $</p>
